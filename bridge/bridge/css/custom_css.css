@@ -1,0 +1,303 @@
+
+
+.testimonial_title_holder h5 {
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: none;
+    letter-spacing: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.testimonials_c_holder .testimonial_content_inner {
+    padding: 53px 45px 50px;
+}
+
+.testimonials_c_holder .testimonial_content_inner .testimonial_image_holder {
+    margin-bottom: 26px;
+}
+
+.testimonials_c_holder .testimonial_content_inner .testimonial_rating_holder {
+    margin: 14px 0 19px;
+}
+
+.testimonials_c_holder .testimonial_content_inner .testimonial_author {
+    margin-top: 29px;
+}
+
+.testimonials_c_holder .flex-control-nav li {
+    width: 10px;
+    height: 10px;
+    margin: 0 2px;
+}
+
+.testimonials_c_holder .flex-control-nav li a {
+    background-color: #afafaf;
+}
+
+.testimonials_c_holder .flex-control-nav {
+    margin-top: 39px;
+}
+
+.qode_video_box .qode_video_image .qode_video_box_button_arrow {
+    border-left-color: #fff;
+}
+
+.qode_video_box .qode_video_image .qode_video_box_button {
+    background-color: #2e82ea;
+}
+
+.qode_video_box .qode_video_image:hover .qode_video_box_button {
+    background-color: #3c8ff6;
+}
+
+.footer_top .widget_nav_menu ul li {
+    padding: 0;
+}
+
+.footer_top a:hover {
+    text-decoration: underline;
+}
+
+.wpcf7 form.wpcf7-form p {
+    margin-bottom: 2px;
+}
+
+.footer_top h5 {
+    margin: 8px 0 11px;
+}
+
+.title.title_size_small h1 {
+    text-transform: none;
+}
+
+.breadcrumb .current {
+    color: #3498db;
+}
+
+.breadcrumb a:hover {
+    color: #fff;
+}
+
+.breadcrumb {
+    font-size: 15px;
+}
+
+ .qode-lower-section-z-index .full_section_inner {
+z-index: 19;
+}
+
+@media only screen and (max-width: 768px) {
+.call-to-action h3 {
+    text-align: center !important;
+}
+}
+
+ header:not(.centered_logo) .header_fixed_right_area{
+line-height: 26px;
+}
+
+@media only screen and (min-width: 1001px) {
+.header_top_bottom_holder:after{
+content: '';
+width: 100%;
+height: 0;
+position: absolute;
+bottom: 60px;
+border-top: 1px solid #e2e2e2;
+}
+}
+
+header.menu_bottom .header_bottom_right_widget_holder .header_bottom_widget.widget_search form>div input[type=text]{
+font-family: 'Montserrat', sans-serif;
+font-size: 13px;
+font-weight: 400;
+letter-spacing: 0;
+border-radius: 0;
+}
+
+@media only screen and (max-width: 1000px){
+header.menu_bottom.has_header_fixed_right .mobile_menu_button{
+height: 100px;
+}
+
+.header_inner_right{
+display: none;
+}
+}
+
+
+@media only screen and (max-width: 1100px){
+
+header.menu_bottom .header_bottom_right_widget_holder .header_bottom_widget.widget_search form>div input[type=text]{
+width: 100px;
+}
+}
+
+.q_icon_with_title.medium .icon_holder img {
+    width: 34px;
+}
+
+.q_icon_with_title.medium.custom_icon_image .icon_text_holder {
+    padding: 0 0 0 47px;
+}
+
+.q_icon_with_title.medium.custom_icon_image .icon_text_holder .icon_text_inner p {
+    font-size: 13px;
+}
+
+.q_icon_with_title.medium.custom_icon_image .icon_text_holder .icon_text_inner h6 {
+   margin: 0 0 -6px 0;
+   font-size: 13px;
+}
+
+.q_icon_with_title.medium .icon_holder {
+    margin-top: 5px;
+}
+
+ .header_menu_bottom .header_bottom_right_widget_holder .q_social_icon_holder a > span{
+border-top: none;
+border-bottom: none;
+}
+
+header:not(.with_hover_bg_color) nav.main_menu > ul > li:hover > a{
+    opacity: 1;
+}
+
+div.comment_form {
+    margin: 0 0 104px;
+}
+
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+.breadcrumb {
+position: relative;
+margin-top: 15px;
+}
+}
+
+@media only screen and (max-width: 600px) {
+.breadcrumb {
+display: none;
+}
+.title.title_size_small h1 {
+    font-size: 25px;
+}
+h2 a {
+    font-size: 24px;
+    line-height: 31px;
+}
+}
+
+@media only screen and (max-width: 1300px){
+.stick.menu_bottom.sticky .header_bottom_right_widget_holder .q_social_icon_holder {
+display: none;
+}
+}
+
+.page-id-320 .fa-envelope:before {
+    content: "\f0c1" !important; 
+    font-size: 27px;
+    color: #1cddf7; }
+
+.q_list.circle ul>li, .q_list.number ul>li {
+    margin: 0 0 4px !important;
+    padding: 0 0 0 16px !important;
+    color: #303030 !important; }
+
+footer {
+    margin-top: 60px;
+}
+
+.home .testimonials_c_carousel .slides {
+    height: 218px;
+    overflow: hidden;
+}
+
+.home .testimonials_c_holder .testimonial_content_inner {
+    background: none ; }
+
+header:not(.sticky) .header_menu_bottom nav.main_menu>ul>li:first-child>a {
+    padding-left: 18px;
+}
+
+blockquote.with_quote_icon h5 {
+    padding: 0 0 0 50px;
+}
+
+blockquote i.pull-left {
+    font-size: 35px;
+}
+
+.page-template-full_width footer {
+    margin-top: 0px;
+}
+
+.white-text p, .white-text h3, .white-text .q_list.circle ul>li { color: #fff  !important; }
+
+.gform_body label.gfield_label { display: none !important; }
+
+.gfield .ginput_container input, .gfield .ginput_container select {
+    font-size: 13px  !important; }
+
+
+.gform_wrapper .gform_fields .gfield {
+    margin: 0 0 0px !important;
+}
+
+.gform_wrapper input {
+    padding: 15px 11px  !important; }
+
+.gform_wrapper .ginput_container select {
+    padding: 8px 0 7px 1px !important; }
+
+.gform_wrapper select, .gform_wrapper textarea {
+    font-family: 'Open Sans', sans-serif !important; }
+
+.gform_wrapper textarea {
+    padding: 5px !important; }
+
+.gform_wrapper input[type=submit] {
+    border: none !important; 
+    padding: 0 23px !important; 
+    border-radius: 0px !important; 
+    background-color: #5f248e !important;
+    color:#fff !important; }
+
+.gform_wrapper textarea {
+    padding: 11px !important;
+}
+
+.gform_wrapper input[type=submit]:hover {
+    background-color: #310f4b !important;
+    color: #fff !important; }
+
+.gform_wrapper .gform_footer {
+    padding: 0px !important; }
+
+@media only screen and (min-width: 1001px) {
+.header_top .left {
+    display: none;
+}}
+
+.header_top .left h5 {
+    margin-top: 15px;
+}
+
+.header_top .left {
+    line-height: 1.4 !important;
+}
+
+
+@media only screen and (min-width: 1400px) {
+.hidedesktop {
+    display: none;
+}}
+
+@media only screen and (max-width: 1399px) {
+.hidemobile {
+    display: none;
+}}
+
+.single-post ol {margin-left: 53px;
+    margin-bottom: 20px;}
+
+.entry_date {display: none;}
